@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!  
-Hi there! I'm **[Your Name]**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.  
-
+Hi there! I'm Isha M Bhandary, A versatile Computer Science student with practical experience in machine learning, computer vision, software development. Skilled in programming languages like Python, Java,C,and HTML with strong expertise in web 
+technologies, database systems, and open-source tools. 
 ## 🛠 Tech Stack  
 
 ### 🔹 Programming & Core Concepts  
