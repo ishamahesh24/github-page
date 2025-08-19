@@ -6,9 +6,9 @@ technologies, database systems, and open-source tools.
 ### 🔹 Programming & Core Concepts  
 <p align="left">  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=flask&logoColor=white" />  
+<img src="https://img.shields.io/badge/React.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
+<img src="https://img.shields.io/badge/java-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
 </p>  
 
 ### 🏛 Large Language Models (LLMs)  
