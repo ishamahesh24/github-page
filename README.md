@@ -20,9 +20,9 @@ technologies, database systems, and open-source tools.
 
 ### 🤖 Operating Systems 
 <p align="left">  
-<img src="https://img.shields.io/badge/Windows 11-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />  
-<img src="https://img.shields.io/badge/Windows 7-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />  
-<img src="https://img.shields.io/badge/Ubuntu-005571?style=for-the-badge&logo=redis&logoColor=white" />  
+<img src="https://img.shields.io/badge/Windows 11-FF6F00?style=for-the-badge&logo=windows11&logoColor=white" />  
+<img src="https://img.shields.io/badge/Windows 7-FF0000?style=for-the-badge&logo=windows7&logoColor=white" />  
+<img src="https://img.shields.io/badge/Ubuntu-005571?style=for-the-badge&logo=ubuntu&logoColor=white" />  
 </p>  
 
 ### ☁️ Cloud & DevOps  
