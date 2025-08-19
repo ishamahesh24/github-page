@@ -7,7 +7,7 @@ technologies, database systems, and open-source tools.
 <p align="left">  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=flask&logoColor=white" />  
-<img src="https://img.shields.io/badge/C-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
+<img src="https://img.shields.io/badge/C programming-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
 <img src="https://img.shields.io/badge/java-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
 </p>  
 
