@@ -25,7 +25,7 @@ technologies, database systems, and open-source tools.
 <img src="https://img.shields.io/badge/Ubuntu-005571?style=for-the-badge&logo=ubuntu&logoColor=white" />  
 </p>  
 
-### ☁️Interfaces 
+### 🧩 Interfaces 
 <p align="left">  
 <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript&logoColor=white" />  
 <img src="https://img.shields.io/badge/React.js -4285F4?style=for-the-badge&logo=react.js&logoColor=white" />  
