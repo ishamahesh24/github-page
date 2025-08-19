@@ -18,11 +18,11 @@ technologies, database systems, and open-source tools.
 <img src="https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge" />  
 </p>  
 
-### 🤖 AI & Machine Learning  
+### 🤖 Operating Systems 
 <p align="left">  
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />  
-<img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />  
-<img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />  
+<img src="https://img.shields.io/badge/Windows 11-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />  
+<img src="https://img.shields.io/badge/Windows 7-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />  
+<img src="https://img.shields.io/badge/Ubuntu-005571?style=for-the-badge&logo=redis&logoColor=white" />  
 </p>  
 
 ### ☁️ Cloud & DevOps  
