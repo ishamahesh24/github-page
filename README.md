@@ -11,11 +11,11 @@ technologies, database systems, and open-source tools.
 <img src="https://img.shields.io/badge/java-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
 </p>  
 
-### 🏛 Large Language Models (LLMs)  
+### 🛠️ Tools
 <p align="left">  
-<img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />  
-<img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />  
-<img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Figma-005571?style=for-the-badge&logo=openai&logoColor=white" />  
+<img src="https://img.shields.io/badge/Canva-1F425F?style=for-the-badge&logo=google&logoColor=white" />  
+<img src="https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge" />  
 </p>  
 
 ### 🤖 AI & Machine Learning  
