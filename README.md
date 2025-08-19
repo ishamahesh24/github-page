@@ -6,15 +6,15 @@ technologies, database systems, and open-source tools.
 ### 🔹 Programming & Core Concepts  
 <p align="left">  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white" />  
-<img src="https://img.shields.io/badge/C programming-FF6F00?style=for-the-badge&logo=C programming&logoColor=white" />  
-<img src="https://img.shields.io/badge/java-EE4C2C?style=for-the-badge&logo=Java&logoColor=white" />  
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logoColor=white" />  
+<img src="https://img.shields.io/badge/C programming-FF6F00?style=for-the-badge&logoColor=white" />  
+<img src="https://img.shields.io/badge/java-EE4C2C?style=for-the-badge&logoColor=white" />  
 </p>  
 
 ### 🛠️ Tools
 <p align="left">  
-<img src="https://img.shields.io/badge/Figma-005571?style=for-the-badge&logo=openai&logoColor=white" />  
-<img src="https://img.shields.io/badge/Canva-1F425F?style=for-the-badge&logo=google&logoColor=white" />  
+<img src="https://img.shields.io/badge/Figma-005571?style=for-the-badge&logo=Figma&logoColor=white" />  
+<img src="https://img.shields.io/badge/Canva-1F425F?style=for-the-badge&logo=Canva&logoColor=white" />  
 <img src="https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge" />  
 </p>  
 
